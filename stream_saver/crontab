@@ -1,0 +1,9 @@
+45 3 * * mon path/to/script/save_nhk_stream.zsh easy_japanese_for_work 00:15:00
+10 4 * * * path/to/script/save_nhk_stream.zsh home_sweat_tokyo 00:20:00
+30 3 * * tue path/to/script/save_nhk_stream.zsh imagine-nation 00:30:00
+30 7 * * wed path/to/script/save_nhk_stream.zsh kabuki-kool 00:30:00
+30 19 * * thu path/to/script/save_nhk_stream.zsh lunch-on 00:25:00
+30 3 * * fri path/to/script/save_nhk_stream.zsh kawaii-int 00:30:00
+10 11 * * sat path/to/script/save_nhk_stream.zsh dining-with-chef 00:30:00
+38 3 * * sun path/to/script/save_nhk_stream.zsh easy-japanese 00:05:00
+25 14 * * sun path/to/script/save_nhk_stream.zsh japan-easy 00:15:00
