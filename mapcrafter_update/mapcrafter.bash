@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Generates and update map of server
+# Generates new map for minecraft server with mapcraft
 
 if [ -d "/home/minecraft/output" ]; then
   echo "Drop old renders";
